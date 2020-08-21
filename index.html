@@ -6,27 +6,54 @@
         <title>Student Bio</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
         <link rel="stylesheet" type="text/css" href="style.css">
     </head>
     <body>
         <header>
-            <h1>Student Bio</h1>
+            <!--<h1>Student Bio</h1>-->
+            <div class="jumbotron jumbotron-fluid">
+                <div class="container">
+                  <h1 class="display-4">Student Bio</h1>
+                  <p class="lead">Pending: Employee Bio</p>
+                </div>
+            </div>
         </header>
         <div class="container">
                 <section id="main-bio">
                     <h2>Melanie Hall</h2>
-                        <img id="bio-image" src="Undercut.jpg" alt="Undercut" width="200" height="200">
-                        <p>I work at Capital One in Finance, but I like using Google Sheets and Excel to build tools that would be way better with real life programming. I have 3 cats and my favorite food is food.</p>
-                </section>    
+                    <div class="card" style="width: 18rem;">
+                        <img src="Undercut.jpg" class="card-img-top" alt="Undercut">
+                        <div class="card-body">
+                         <p class="card-text">I work at Capital One in Finance, but I like using Google Sheets and Excel to build tools that would be way better with real life programming. I have 3 cats and my favorite food is food.</p>
+                      </div>
+                  </div>  
+                </section> 
+ 
                 
                 <section id="contact-info">
-                        <h3>Contact Info</h3>
-                        <ul>
-                            <li><b>Email:</b><a href="hallmt313@gmail.com">hallmt313@gmail.com</a></li>
-                            <li><b>GitHub:</b><a href="https://github.com/mhall313">Melanie Hall</a></li>
-                            <li><b>Portfolio: </b><a href="">Coming Soon</a></li>
-                         </ul>
+                        <!--<h3>Contact Info</h3>-->
+                        <table class="table table-striped">
+                            <thread>
+                                <tr>
+                                    <th scope="col"></th>
+                                    <th scope="col">Contact Info</th>
+                                </tr>
+                            </thread>
+                            <tbody>
+                                <tr>
+                                    <td>Email:</td>
+                                    <td><a href="hallmt313@gmail.com">hallmt313@gmail.com</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Github:</td>
+                                    <td><a href="https://github.com/mhall313">Melanie Hall</a></td>
+                                </tr>
+                                <tr>
+                                    <td>Portfolio:</td>
+                                    <td><a href="">Coming Soon</a></td>
+                                </tr>
+                            </tbody>
                 </section>  
         </div>
     </body>

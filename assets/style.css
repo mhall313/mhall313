@@ -37,7 +37,7 @@ li, i{
   font-size: xx-large;
   color: rgba(197, 110, 231, 0.781);
 }
-li:hover, i:hover, .highlight-me:hover{
+.highlight-me:hover{
   color: rgba(148, 231, 110, 0.781);
 }
 .descrp-text{

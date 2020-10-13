@@ -20,11 +20,9 @@ a, .fa-envelope{
 }
 .top-row{
   margin-top: 20px;
-  /* padding:0px 20px 0px 20px; */
 }
 .next-row, .col-12{
   text-align: center;
-  /* padding:0px 20px 0px 20px; */
 }
 .bio-image{
   border-radius: 50%;
@@ -38,6 +36,9 @@ li, i{
   margin: 0px 7px 0px 7px;
   font-size: xx-large;
   color: rgba(197, 110, 231, 0.781);
+}
+li:hover, i:hover, .highlight-me:hover{
+  color: rgba(148, 231, 110, 0.781);
 }
 .descrp-text{
   font-family: 'Oswald', sans-serif;

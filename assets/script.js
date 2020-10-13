@@ -1,10 +1,13 @@
 $(document).ready(function(){
 
-function init(){
-    $(".project").css({ opacity: 0 });
-}
-init();
-
-
+$(".fa-envelope").click(function(){
 
 })
+$(".fa-github").click(function(){
+    window.open("https://github.com/mhall313")
+})
+$(".fa-linkedin").click(function(){
+    window.open("https://www.linkedin.com/in/hallmelanie/")
+})
+
+}) //end of doc

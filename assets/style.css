@@ -1,29 +1,43 @@
 body{
   background-color: rgb(63, 63, 63);
+  color: white;
+  padding-left:10px;
+}
+h5{
+  margin-top: 10px;
+  font-size: 32px;
+  font-family: 'Staatliches', cursive;
+}
+a{
+  text-decoration: underline;
+}
+.short-bio{
+  font-family: 'Oswald', sans-serif;
+}
+.top-row{
+  margin-top: 40px;
+}
+.next-row{
+  text-align: center;
 }
 .bio-image{
-  border-radius: 200px;
+  border-radius: 50%;
   background-color: rgb(63, 63, 63);
 }
-.photo-container{
-  background-color: rgb(63, 63, 63);
-  border-color: rgb(63, 63, 63);
+ul{
+  padding: 0px 0px 0px 0px;
 }
-.card{
-  margin: 100px 15px 0px 15px;
-  border-color: rgb(63, 63, 63);
+li{
+  margin: 0px 7px 0px 7px;
+  font-size: xx-large;
 }
-.card-body{
-  text-align: center;
-  background-color: rgb(63, 63, 63);
-  color: rgb(146, 146, 146)
-}
-
 .bandmates, .weather-app, .quiz-app{
   max-width: 360px;
   margin: 7px 0px 7px 0px;
 }
 
 @media screen and (max-width: 400px) {
+
+
 
 }

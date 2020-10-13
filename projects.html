@@ -3,7 +3,7 @@
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
         <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-        <title>Melanie Hall</title>
+        <title>Melanie Hall's Projects</title>
         <!--Link to Bootstrap-->
         <link
             rel="stylesheet"
@@ -25,32 +25,40 @@
         <!--CSS specific to this Web App-->
         <link rel="stylesheet" href="assets/style.css" />
     </head>
-    <body> 
-        <div class="row justify-content-md-center top-row">
-                <div class="col-md-4 photo-container">
-                    <img src="assets/Profile Photo.png" class="card-img bio-image" alt="Melanie">
+    <body>
+        <!--The NavBar via Bootstrap, fixed to the top of each page-->
+        <nav class="navbar navbar-light bg-light">
+            <span class="navbar-brand mb-0 h1">Melanie Hall</span>
+            <ul>
+              <li class="fas fa-envelope"></li>
+              <li class="fab fa-github"></li>
+              <li class="fab fa-linkedin"></li>
+            </ul>
+        </nav>
+
+            <!-- Dynamically create the below -->
+            <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Bandmates.PNG" class="bandmates" alt="Bandmates">
                 </div>
-        </div>
-        <div class="row justify-content-md-center next-row">
-                <div class="col-md-4 bio-container">
-                    <h5 class="title-name">Melanie Hall</h5>
-                    <p class="short-bio">High performing data analyst with 8+ years of finance and accounting experience turned software engineer through the full stack bootcamp at University of Richmond. With my mathematical background, strong logic based analyst skills and excellent presentation skills, I am more than just a developer.
-                        <br>
-                        <a href="">Check out my work.</a>
-                    </p>
-                    <ul>
-                        <li class="fas fa-envelope"></li>
-                        <li class="fab fa-github"></li>
-                        <li class="fab fa-linkedin"></li>
-                    </ul>
+            </div>
+            <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Do-I-Need-a-Jacket.PNG" class="weather-app" alt="Do I Need a Jacket web app">
                 </div>
-        </div>
+            </div>
+            <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Coding-Quiz.PNG" class="quiz-app" alt="Coding Quiz web app">
+                </div>
+            </div>
+          </div>
 
         <!--JQuery Script-->
         <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
         <!--Moment.js-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
         <!--My Script-->
-        <script src="assets/script.js"></script>
+        <script src="assets/project.js"></script>
     </body>
 </html>

@@ -1,8 +1,5 @@
 $(document).ready(function(){
 
-    $(".fa-envelope").click(function(){
-        
-    })
     $(".fa-github").click(function(){
         window.open("https://github.com/mhall313")
     })

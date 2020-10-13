@@ -18,24 +18,64 @@
         crossorigin="anonymous"
         />
         <!--Google Fonts Link-->
-        <!-- <link
-        href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap"
-        rel="stylesheet"
-        /> -->
+        
 
         <!--CSS specific to this Web App-->
         <link rel="stylesheet" href="assets/style.css" />
     </head>
     <body>
-        <header>
-            <!--<h1>Student Bio</h1>-->
-            <div class="jumbotron jumbotron-fluid">
-                <div class="container">
-                  <h1 class="display-4">Melanie Hall</h1>
-                  <p class="lead">Experienced Financial Analyst turned Software Engineer</p>
+        <!--The NavBar via Bootstrap, fixed to the top of each page-->
+        <!-- <nav class="navbar navbar-light bg-light">
+            <span class="navbar-brand mb-0 h1">Melanie Hall</span>
+            <ul>
+              <li class="fas fa-envelope icon-link"></li>
+              <li class="fab fa-github icon-link"></li>
+              <li class="fab fa-linkedin icon-link"></li>
+            </ul>
+        </nav> -->  
+        <div class="row">
+            <div class="col-md-8">
+                <div class="card mb-3" style="max-width: 540px;">
+                    <div class="row no-gutters">
+                      <div class="col-md-4 photo-container">
+                        <img src="assets/Profile Photo.png" class="card-img bio-image" alt="Melanie">
+                      </div>
+                      <div class="col-md-8">
+                        <div class="card-body">
+                          <h5 class="card-title">Melanie Hall</h5>
+                          <p class="card-text">I have 8+ year experience in finance and analytics and have decided to expand my skillset beyond static model building and presentation decks. Check out my work.</p>
+                          <p class="card-text">
+                            <ul>
+                                <li class="fas fa-envelope icon-link"></li>
+                                <li class="fab fa-github icon-link"></li>
+                                <li class="fab fa-linkedin icon-link"></li>
+                              </ul>
+                          </p>
+                        </div>
+                      </div>
+                    </div>
+                </div>
+
+            </div>
+        </div>
+            <!-- Dynamically create the below -->
+            <!-- <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Bandmates.PNG" class="bandmates" alt="Bandmates">
                 </div>
             </div>
-        </header>
+            <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Do-I-Need-a-Jacket.PNG" class="weather-app" alt="Do I Need a Jacket web app">
+                </div>
+            </div>
+            <div class="row project">
+                <div class="col-12">
+                    <img src="assets/Coding-Quiz.PNG" class="quiz-app" alt="Coding Quiz web app">
+                </div>
+            </div>
+          </div> -->
+
 
 
 
@@ -46,6 +86,6 @@
         <!--Moment.js-->
         <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.24.0/moment.min.js"></script>
         <!--My Script-->
-        <script src="assets/javascript.js"></script>
+        <script src="assets/script.js"></script>
     </body>
 </html>

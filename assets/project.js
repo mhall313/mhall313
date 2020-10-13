@@ -30,4 +30,4 @@ $(document).ready(function(){
         window.open("https://github.com/mhall313/code-quiz")
     })
     
-    }) //end of doc
+    }) 

@@ -23,7 +23,7 @@ $(document).ready(function(){
     })
 
     // Coding Quiz Links
-    $(".quiz-app").click(function(){
+    $(".quiz-dapp").click(function(){
         window.open("https://mhall313.github.io/code-quiz/")
     })
     $(".quiz-repo").click(function(){

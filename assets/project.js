@@ -23,10 +23,10 @@ $(document).ready(function(){
     })
 
     // Coding Quiz Links
-    $(".weather-dapp").click(function(){
+    $(".quiz-app").click(function(){
         window.open("https://mhall313.github.io/code-quiz/")
     })
-    $(".weather-repo").click(function(){
+    $(".quiz-repo").click(function(){
         window.open("https://github.com/mhall313/code-quiz")
     })
     

@@ -46,14 +46,14 @@ li, i{
 .links{
   padding-top: 8%;
 }
-.bandmates, .weather-app, .quiz-app{
+.bandmates, .weather-app, .quiz-app, .burger{
   width: 750px;
   margin: 7px 0px 7px 0px;
   border-radius: 25px;
 }
 
 @media screen and (max-width: 400px) {
-  .bandmates, .weather-app, .quiz-app{
+  .bandmates, .weather-app, .quiz-app, .burger{
     max-width: 360px;
   }
 

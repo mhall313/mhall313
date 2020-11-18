@@ -1,11 +1,23 @@
 $(document).ready(function(){
     // Navbar Links
+    $(".fa-home").click(function(){
+        window.location.href = 'index.html';
+    })
     $(".fa-github").click(function(){
         window.open("https://github.com/mhall313")
     })
     $(".fa-linkedin").click(function(){
         window.open("https://www.linkedin.com/in/hallmelanie/")
     })
+
+    // Burger Links
+    $(".burger-app").click(function(){
+        window.open("")
+    })
+    $(".burger-repo").click(function(){
+        window.open("https://github.com/mhall313/burger")
+    })
+
     // BandMates Links
     $(".bandmates-app").click(function(){
         window.open("https://joshallan.dev/bandmates-musician-finder/")

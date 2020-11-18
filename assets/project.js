@@ -12,7 +12,7 @@ $(document).ready(function(){
 
     // Burger Links
     $(".burger-app").click(function(){
-        window.open("")
+        window.open("https://protected-atoll-97608.herokuapp.com/")
     })
     $(".burger-repo").click(function(){
         window.open("https://github.com/mhall313/burger")

@@ -10,6 +10,14 @@ $(document).ready(function(){
         window.open("https://www.linkedin.com/in/hallmelanie/")
     })
 
+    // Neighbors in Need Links
+    $(".NIN-app").click(function(){
+        window.open("neighbors-in-need.herokuapp.com/")
+    })
+    $(".NIN-repo").click(function(){
+        window.open("https://github.com/lucsedirae/neighbors-in-need")
+    })
+
     // Burger Links
     $(".burger-app").click(function(){
         window.open("https://protected-atoll-97608.herokuapp.com/")

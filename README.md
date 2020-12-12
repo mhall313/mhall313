@@ -18,8 +18,8 @@ This web application is designed to present the deployed apps I have developed a
 
 ## Screenshots of the App/Portfolio
 
-![](Home-Page.png)
-![](Portfolio.png)
+![](assets/Home-Page.PNG)
+![](assets/Portfolio.PNG)
 
 
 ## Contact Information
@@ -27,4 +27,4 @@ This web application is designed to present the deployed apps I have developed a
 - Developed by Melanie Hall
 - Email: hallmt313@gmail.com
 - Linkedin: https://www.linkedin.com/in/hallmelanie
-- Resume: ![](Melanie Hall - Resume.pdf)
+- Resume: ![](assets/Melanie Hall - Resume.pdf)

@@ -27,4 +27,4 @@ This web application is designed to present the deployed apps I have developed a
 - Developed by Melanie Hall
 - Email: hallmt313@gmail.com
 - Linkedin: https://www.linkedin.com/in/hallmelanie
-- Resume: ![](assets/Melanie Hall - Resume.pdf)
+- Resume: [link](assets/Melanie%Hall%-%Resume.pdf)

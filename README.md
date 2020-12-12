@@ -2,12 +2,11 @@
 
 ## Deployed Web App
 
-- http://mhall313.github.io
+[Melanie Hall](https://mhall313.github.io/)
 
 ## Project Summary
 
 This web application is designed to present the deployed apps I have developed and my contact information for future employers.
-
 
 ## Technologies Used
 
@@ -16,7 +15,11 @@ This web application is designed to present the deployed apps I have developed a
 - Font Awesome Library
 - Google Fonts Library
 
-## Screenshots of the App/Portfolio
+## GitHub Repo
+
+[Melanie Hall's GitHub](https://github.com/mhall313)
+
+## Screenshots of the Application
 
 ![](assets/Home-Page.PNG)
 ![](assets/Portfolio.PNG)

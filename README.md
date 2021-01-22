@@ -2,7 +2,7 @@
 
 ## Deployed Web App
 
-[Melanie Hall](https://mhall313.github.io/)
+[Melanie Hall](https://melaniehall-portfolio.netlify.app/)
 
 ## Project Summary
 

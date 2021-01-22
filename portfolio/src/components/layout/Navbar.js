@@ -1,21 +1,18 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 
-const Navbar = ({proj}) => {
+const Navbar = () => {
     
     return (
-
-        proj && (    
-            <nav className='navbar'>
-                <span className="navbar-brand mb-0 h1">Portfolio</span>
-                <ul className="nav justify-content-end">
-                    <li className="fas fa-home highlight-me"></li>
-                    <li className="fab fa-github highlight-me"></li>
-                    <li className="fab fa-linkedin highlight-me"></li>
-                </ul>
-            </nav>
+        <nav className='navbar'>
+            <span className="navbar-brand mb-0 h1"> </span>
+            <ul className="nav justify-content-end">
+                <Link className="fas fa-home highlight-me icon-link" to="/"></Link>
+                <a className="fab fa-github highlight-me icon-link" href="https://github.com/mhall313"></a>
+                <a className="fab fa-linkedin highlight-me icon-link" href="https://www.linkedin.com/in/hallmelanie/"></a>
+            </ul>
+        </nav>
         )
-    )
-    
 }
 
 

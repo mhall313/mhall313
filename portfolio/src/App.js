@@ -6,22 +6,25 @@ import Main from './components/layout/Main';
 import Projects from './components/pages/Projects';
 
 class App extends Component {
-  state = {
-    proj: false
-  };
-
+  // state = {
+  //   proj: false
+  // };
+  
+  // showNavbar = () => this.setState({ proj: true });
+  
   render() {
 
     return (
       <div>
         <Router>
         <div className="App">
-
-          <Navbar proj={this.state.proj}/>
-          <Switch>
-            <Route exact path='/'component={Main}/>
-            <Route exact path='/projects' component={Projects}/>
-          </Switch>
+          <Navbar/>
+          <div>
+            <Switch>
+              <Route exact path='/'component={Main}/>
+              <Route exact path='/projects' component={Projects}/>
+            </Switch>
+          </div>
         </div>
         </Router>
       </div>

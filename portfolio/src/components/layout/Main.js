@@ -30,15 +30,7 @@ export class Main extends Component {
                     <div className="col-auto">
                         <p className="descrp-text"><i className="fas fa-phone"></i> (804) 346-7909</p>
                     </div>
-                </div>
-                <div className="row justify-content-center">
-                    <div className="col-auto">
-                        <i className="fab fa-github highlight-me"></i>
-                    </div>
-                    <div className="col-auto">
-                        <i className="fab fa-linkedin highlight-me"></i>
-                    </div>
-                </div>            
+                </div>         
             </div>
         )
     }

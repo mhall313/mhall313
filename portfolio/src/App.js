@@ -13,23 +13,18 @@ class App extends Component {
   render() {
 
     return (
-      <Router>
-      <div className="App">
+      <div>
+        <Router>
+        <div className="App">
 
-        <Navbar proj={this.state.proj}/>
-        <Switch>
-          <Route 
-            exact path='/'
-            render={props => (
-              <Fragment>
-                <Main />
-              </Fragment>
-            )}
-          />
-          <Route exact path='/projects' component={Projects}/>
-        </Switch>
+          <Navbar proj={this.state.proj}/>
+          <Switch>
+            <Route exact path='/'component={Main}/>
+            <Route exact path='/projects' component={Projects}/>
+          </Switch>
+        </div>
+        </Router>
       </div>
-      </Router>
     );
   }
 }

@@ -4,7 +4,7 @@ export class Projects extends Component {
     render() {
         return (
             <div>
-                
+                This works
             </div>
         )
     }

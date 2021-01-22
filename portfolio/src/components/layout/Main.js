@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import { Link } from 'react-router-dom';
 
 export class Main extends Component {
     
@@ -16,7 +17,7 @@ export class Main extends Component {
                 <div className="row justify-content-center short-bio links-row">
                     <div className="col-auto">
                         {/* change to redirect to new component */}
-                        <a className="highlight-me" href="projects.html">Portfolio</a>
+                        <Link className="highlight-me" to="/projects">Portfolio</Link>
                     </div>
                     <div className="col-auto">
                         <a className="highlight-me" href="assets/MelanieHallResume.pdf" download="Melanie_Hall_Resume">Resume</a>

@@ -10,6 +10,7 @@ This web application is designed to present the deployed apps I have developed a
 
 ## Technologies Used
 
+- React
 - Bootstrap styling framework
 - jQuery Library
 - Font Awesome Library
@@ -23,7 +24,6 @@ This web application is designed to present the deployed apps I have developed a
 
 ![](assets/Home-Page.PNG)
 ![](assets/Portfolio.PNG)
-
 
 ## Contact Information
 

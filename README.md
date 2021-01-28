@@ -1,6 +1,4 @@
-
-[![Melanie's GitHub Banner](public/assets/Home-Page.PNG)](https://melaniehall-portfolio.netlify.app/)
-
+[![Melanie's GitHub Banner](public/assets/github-banner.PNG)](https://melaniehall-portfolio.netlify.app/)
 
 ## Known Languages & Technologies
 
@@ -28,7 +26,7 @@
 - JSON
 - AJAX
 
-### Deployment & Command-Line 
+### Deployment & Command-Line
 
 - Heroku
 - Netlify

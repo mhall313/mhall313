@@ -2,7 +2,7 @@
 
 ## About Me
 
-I'm an intellectually and analytically bent software engineer. I'm passionate about creating and building innovative and efficient tools for buisnesses and customers. I am a certified full stack web-developer from the University of Richmond, have my bachelor's in Mathematics from Virginia Tech and an associates degree in Accounting and Business.
+I'm an intellectually and analytically bent software engineer. I'm passionate about creating and building innovative and efficient tools that make lives easier. I am a certified full stack web-developer from the University of Richmond, have my bachelor's in Mathematics from Virginia Tech and an associates degree in Accounting and Business.
 
 I'm also a thirty-something cat-mom of 3.
 🐱🐱🐱

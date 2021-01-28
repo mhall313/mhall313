@@ -1,33 +1,56 @@
-# Melanie Hall's Portfolio - mhall313.github.io
 
-## Deployed Web App
+[![Melanie's GitHub Banner](assets/Home-Page.PNG)](https://melaniehall-portfolio.netlify.app/)
 
-[Melanie Hall](https://melaniehall-portfolio.netlify.app/)
 
-## Project Summary
+## Known Languages & Technologies
 
-This web application is designed to present the deployed apps I have developed and my contact information for future employers.
+### Browser Based Technologies
 
-## Technologies Used
-
+- HTML & CSS
+- Javascript, JQuery, JSX
+- Responsive Design
+- Bootstrap & Material UI
+- Handlebars
+- Local Storage, Session Storage, Indexed DB
 - React
-- Bootstrap styling framework
-- jQuery Library
-- Font Awesome Library
-- Google Fonts Library
 
-## GitHub Repo
+### Server Side Development
 
-[Melanie Hall's GitHub](https://github.com/mhall313)
+- Node.js
+- Express
+- User Authentication
+- PWAs
+- MERN Stack
 
-## Screenshots of the Application
+### API Interaction
 
-![](assets/Home-Page.PNG)
-![](assets/Portfolio.PNG)
+- API
+- JSON
+- AJAX
 
-## Contact Information
+### Deployment & Command-Line 
+
+- Heroku
+- Netlify
+- Git
+- GitHub Pages
+
+### Databases
+
+- MySQL
+- MongoDB
+
+### Computer Science Applied to JavaScript
+
+- Algorithms
+- Efficiency
+- Time Complexity
+- Big O Notation
+- Data Structures
+
+## Please feel free to contact me!
 
 - Developed by Melanie Hall
 - Email: hallmt313@gmail.com
-- Linkedin: https://www.linkedin.com/in/hallmelanie
+- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hallmelanie)
 - Resume: [link](assets/MelanieHallResume.pdf)

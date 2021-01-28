@@ -52,5 +52,5 @@
 
 - Developed by Melanie Hall
 - Email: hallmt313@gmail.com
-- [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/hallmelanie)
+- Linkedin: [link](https://www.linkedin.com/in/hallmelanie)
 - Resume: [link](assets/MelanieHallResume.pdf)

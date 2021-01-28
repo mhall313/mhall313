@@ -1,5 +1,5 @@
 
-[![Melanie's GitHub Banner](assets/Home-Page.PNG)](https://melaniehall-portfolio.netlify.app/)
+[![Melanie's GitHub Banner](./assets/Home-Page.PNG)](https://melaniehall-portfolio.netlify.app/)
 
 
 ## Known Languages & Technologies

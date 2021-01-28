@@ -28,6 +28,6 @@ I'm also a thirty-something cat-mom of 3.
 ## Please feel free to contact me!
 
 - Developed by Melanie Hall
-- Email: hallmt313@gmail.com
-- Linkedin: [link](https://www.linkedin.com/in/hallmelanie)
-- Resume: [link](assets/MelanieHallResume.pdf)
+- hallmt313@gmail.com
+- [Linkedin](https://www.linkedin.com/in/hallmelanie)
+- [Resume](assets/MelanieHallResume.pdf)

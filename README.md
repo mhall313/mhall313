@@ -7,6 +7,11 @@ I'm an intellectually and analytically bent software engineer. I'm passionate ab
 I'm also a thirty-something cat-mom of 3.
 🐱🐱🐱
 
+Check out my business card by running the following in your terminal!
+```bash
+npx melaniehall
+```
+
 ## Known Languages & Technologies
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |

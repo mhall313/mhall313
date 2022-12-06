@@ -33,7 +33,7 @@ npx melaniehall
 
 ## Please feel free to contact me!
 
-- Developed by Melanie Hall
+- Developed by Melanie (Hall) Crews
 - hallmt313@gmail.com
 - [Linkedin](https://www.linkedin.com/in/hallmelanie)
 - [Resume](public/assets/MelanieHallCrewsResume.pdf)

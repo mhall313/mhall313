@@ -36,4 +36,4 @@ npx melaniehall
 - Developed by Melanie Hall
 - hallmt313@gmail.com
 - [Linkedin](https://www.linkedin.com/in/hallmelanie)
-- [Resume](assets/Melanie(Hall)CrewsResume.pdf)
+- [Resume](assets/MelanieHallCrewsResume.pdf)

@@ -16,11 +16,12 @@ npx melaniehall
 
 | Browser Based Technologies                 | Server Side Development | Computer Science |
 | ------------------------------------------ | ----------------------- | ---------------- |
-| HTML & CSS                                 | Node.js                 | Algorithms       |
+| Python & SQL                               | Node.js                 | Algorithms       |
 | Javascript, JQuery, JSX                    | Express                 | Efficiency       |
-| Responsive Design                          | User Authentication     | Time Complexity  |
-| Bootstrap & Material UI                    | PWAs                    | Big O Notation   |
-| Handlebars                                 | MERN Stack              | Data Structures  |
+| HTML & CSS                                 | User Authentication     | Time Complexity  |
+| Responsive Design                          | PWAs                    | Big O Notation   |
+| Bootstrap & Material UI                    | MERN Stack              | Data Structures  |
+| Handlebars                                 |                         |                  |
 | Local Storage, Session Storage, Indexed DB |                         |                  |
 | React                                      |                         |                  |
 
